@@ -8,8 +8,7 @@
 <p>
   Hi 👋, I'm Felipe! A passionate It student from Brazil.
 
-  - 🌱 I’m currently studying IT<img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
-
+  - 🌱 I’m currently studying IT
   - 🔭 I am looking for my first job opportunity.
 </p>
 
