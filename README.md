@@ -17,9 +17,9 @@
   <summary>👨‍💻 More about me</summary>
 
   - 💬 I am 17 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Js, Css, HTML, PHP and React native. 
-<!-- 
+
   - ⚡ I enjoy watching anime, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
-</details> -->
+</details> 
 
 <!-- Links -->
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com)
